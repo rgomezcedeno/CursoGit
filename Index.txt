@@ -1,1 +1,3 @@
-- Primera Linea
+- Creamos el cuerpo del index
+- Agregamos la hoja de Estilo CSS
+- Colocamos un Titulo Principal
