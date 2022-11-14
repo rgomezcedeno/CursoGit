@@ -1,1 +1,3 @@
 - Color de fondo "Azul"
+- Estilo a la Fuente
+	Color rojo
